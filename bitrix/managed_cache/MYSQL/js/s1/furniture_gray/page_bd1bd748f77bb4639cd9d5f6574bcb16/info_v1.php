@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/test/request.send.mail/templates/.default/script.js" => "17002004882124",]; ?>

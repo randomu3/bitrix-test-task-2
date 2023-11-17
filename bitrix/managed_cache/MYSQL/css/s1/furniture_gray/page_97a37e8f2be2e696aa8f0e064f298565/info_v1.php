@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/test/request.send.mail/templates/.default/style.css" => "1700200481121",]; ?>
